@@ -1,0 +1,14 @@
+In line number 56 of your output:
+The output should be:
+Handling Instructions, ENTER to skip: Keep in room temperature
+                                      ^
+But your output is: 
+Handling Instructions, ENTER to skip: 
+                                       ^
+
+Unmatched character details:
+The character in column 40 is supposed to be:
+  [K] ASCII code(75)
+but you printed
+  [Empty Line] ASCII code(0)
+
