@@ -1,0 +1,12 @@
+/*
+    ==================================================
+    Milestone3: OOP435ZCC
+    ==================================================
+    Name   : Tejinder Singh
+    ID     : 129121216
+    Email  : ktejinder-singh@myseneca.ca
+    Section: ZCC
+*/
+
+This project helped to clear the topics i was weak in and made me practice the code more.
+i got to learn object oriented programming in this course and the exerence i go from coding, making workshops and finally completing this project would help me when i apply for job in future.
